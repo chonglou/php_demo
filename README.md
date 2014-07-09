@@ -1,4 +1,3 @@
-php_demo
+用于lotus部署demo
 ========
 
-lotus的部署 php demo
